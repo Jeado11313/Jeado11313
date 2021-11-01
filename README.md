@@ -8,4 +8,4 @@
 Jeado11313/Jeado11313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi thisis me Jeado1313
+Hi this is me Jeado1313
